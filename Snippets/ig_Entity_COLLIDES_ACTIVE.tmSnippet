@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.Entity.COLLIDES.ACTIVE</string>
+	<key>name</key>
+	<string>ig.Entity.COLLIDES.ACTIVE</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>collides</string>
+	<key>uuid</key>
+	<string>298688D1-2762-4F1A-87FD-E47DEBF2C29A</string>
+</dict>
+</plist>

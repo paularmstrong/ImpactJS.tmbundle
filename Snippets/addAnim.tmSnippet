@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>this.addAnim('${1:name}', ${2:1}, [$3]${4:, true});</string>
+	<key>name</key>
+	<string>addAnim</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>addanim</string>
+	<key>uuid</key>
+	<string>9D74A387-F10D-4BB7-84BC-46F9C424A37D</string>
+</dict>
+</plist>

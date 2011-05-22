@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.input.bind(${1:ig.KEY.UP_ARROW}, '${2:action}');</string>
+	<key>name</key>
+	<string>ig.input.bind</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>bind</string>
+	<key>uuid</key>
+	<string>8B6AD454-2FCD-4F23-8C0A-3E5B90242CDC</string>
+</dict>
+</plist>

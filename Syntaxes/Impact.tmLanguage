@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comment</key>
+	<string>Impact Syntax: version 1.17</string>
+	<key>fileTypes</key>
+	<array>
+		<string>js</string>
+	</array>
+	<key>keyEquivalent</key>
+	<string>^~I</string>
+	<key>name</key>
+	<string>Impact</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string>Since Impact is just JavaScript, include the JavaScript bundles</string>
+			<key>include</key>
+			<string>source.js</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.js.impact</string>
+	<key>uuid</key>
+	<string>C2104270-E062-444E-B3BB-3F9E1AF5BF89</string>
+</dict>
+</plist>
