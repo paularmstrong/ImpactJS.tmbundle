@@ -2,6 +2,25 @@
 
 This is a Textmate bundle to make working with [ImpactJS](http://impactjs.com) easier. It extends the default JavaScript bundles in Textmate with templates, snippets, and commands.
 
+## What's Available
+
+### Templates
+
+1. Entity
+
+### Snippets
+
+1. ig.Entity.COLLIDES.*
+2. ig.Entity.TYPE.*
+3. ig.Font.ALIGN.*
+4. addAnim()
+5. ig.input.bind
+6. ig.module
+
+### Commands
+
+1. Documentation for Word / Selection (limited)
+
 ## Getting ImpactJS
 
 Impact is a commercially available JavaScript game engine available from [ImpactJS.com](http://impactjs.com)
