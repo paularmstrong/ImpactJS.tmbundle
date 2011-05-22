@@ -1,0 +1,16 @@
+#!/bin/bash
+
+CHANGED_FILES=$(git diff --cached --name-status | awk '$1 != "R" { print $2 }')
+
+if git-rev-parse --verify HEAD >/dev/null 2>&1 ; then
+    against=HEAD
+else
+    # Initial commit: diff against an empty tree object
+    against=4b825dc642cb6eb9a060e54bf8d69288fbee4904
+fi
+
+# Remove all of the trailing whitespace in this commit
+for FILE in `exec git diff-index --check --cached $against -- | sed '/^[+-]/d' | sed -E 's/:[0-9]+:.*//' | uniq` ; do
+    sed -i '' -E 's/[[:space:]]*$//' "$FILE"
+    git add $FILE
+done
