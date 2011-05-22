@@ -13,9 +13,10 @@ This is a Textmate bundle to make working with [ImpactJS](http://impactjs.com) e
 1. ig.Entity.COLLIDES.*
 2. ig.Entity.TYPE.*
 3. ig.Font.ALIGN.*
-4. addAnim()
-5. ig.input.bind
-6. ig.module
+4. ig.Sound.FORMAT.*
+5. addAnim()
+6. ig.input.bind
+7. ig.module
 
 ### Commands
 
