@@ -11,15 +11,15 @@ ig.module('game.entities.${TM_NEW_FILE_BASENAME}')
 )
 .defines(function () {
 
-Entity${TM_CLASSNAME} = ig.Entity.extend({
-    size: { x: 48, y: 48 },
-
-    animSheet: new ig.AnimationSheet('${media/$TM_NEW_FILE_BASENAME.png}', 48, 48),
-
-    init: function(x, y, settings) {
-        this.parent(x, y, settings);
-    }
-
-});
+    Entity${TM_CLASSNAME} = ig.Entity.extend({
+        size: { x: 48, y: 48 },
+    
+        animSheet: new ig.AnimationSheet('${media/$TM_NEW_FILE_BASENAME.png}', 48, 48),
+    
+        init: function (x, y, settings) {
+            this.parent(x, y, settings);
+        }
+    
+    });
 
 });

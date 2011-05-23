@@ -9,7 +9,7 @@ ${2:.requires(
 )}
 .defines(function() {
 
-$0
+    $0
 
 });</string>
 	<key>name</key>
