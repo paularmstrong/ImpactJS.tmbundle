@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>ig.input.bind(ig.KEY.${1:KEY}, '${2:action}');</string>
+	<string>ig.input.pressed(${1:action});</string>
 	<key>name</key>
-	<string>ig.input.bind</string>
+	<string>ig.input.pressed</string>
 	<key>scope</key>
 	<string>source.js.impact</string>
 	<key>tabTrigger</key>
-	<string>bind</string>
+	<string>pressed</string>
 	<key>uuid</key>
-	<string>0BEC6515-1B1C-4C58-B881-B156D3D28941</string>
+	<string>9D84CF56-20C6-4C1C-956D-182CA1817851</string>
 </dict>
 </plist>

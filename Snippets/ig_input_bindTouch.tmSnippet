@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>ig.input.bind(ig.KEY.${1:KEY}, '${2:action}');</string>
+	<string>ig.input.bindTouch('${1:selector}', '${2:action}');</string>
 	<key>name</key>
-	<string>ig.input.bind</string>
+	<string>ig.input.bindTouch</string>
 	<key>scope</key>
 	<string>source.js.impact</string>
 	<key>tabTrigger</key>
-	<string>bind</string>
+	<string>bindTouch</string>
 	<key>uuid</key>
-	<string>0BEC6515-1B1C-4C58-B881-B156D3D28941</string>
+	<string>C886ED22-3356-44B0-A0E9-08186DCD2D42</string>
 </dict>
 </plist>
