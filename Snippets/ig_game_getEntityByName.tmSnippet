@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.game.getEntityByName(${1:name});</string>
+	<key>name</key>
+	<string>ig.game.getEntityByName</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>get</string>
+	<key>uuid</key>
+	<string>779502F1-AFB0-4B5C-98B2-B51E9C90CBAC</string>
+</dict>
+</plist>

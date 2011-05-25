@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.game.removeEntity(${1:entity});</string>
+	<key>name</key>
+	<string>ig.game.removeEntity</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>remove</string>
+	<key>uuid</key>
+	<string>91F924E0-E273-4778-886E-275F74221738</string>
+</dict>
+</plist>

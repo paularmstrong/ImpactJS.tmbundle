@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ig.game.spawnEntity(Entity${1:Class}, ${2:x}, ${3:y}${4:, ${5:options}});</string>
+	<key>name</key>
+	<string>ig.game.spawnEntity</string>
+	<key>scope</key>
+	<string>source.js.impact</string>
+	<key>tabTrigger</key>
+	<string>spawn</string>
+	<key>uuid</key>
+	<string>537D776D-5914-4BBD-817A-A2F3F12AD9BE</string>
+</dict>
+</plist>
