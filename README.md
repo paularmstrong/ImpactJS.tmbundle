@@ -10,13 +10,22 @@ This is a Textmate bundle to make working with [ImpactJS](http://impactjs.com) e
 
 ### Snippets
 
-1. ig.Entity.COLLIDES.*
-2. ig.Entity.TYPE.*
-3. ig.Font.ALIGN.*
-4. ig.Sound.FORMAT.*
-5. addAnim()
-6. ig.input.bind
-7. ig.module
+1. `ig.Entity.COLLIDES.*`
+1. `ig.Entity.TYPE.*`
+1. `ig.Font.ALIGN.*`
+1. `ig.game.getEntityByName`
+1. `ig.game.getEntitiesByType`
+1. `ig.game.removeEntity`
+1. `ig.game.spawnEntity`
+1. `ig.input.bind`
+1. `ig.input.bindTouch`
+1. `ig.input.pressed`
+1. `ig.input.state`
+1. `ig.input.unbind`
+1. `ig.input.unbindAll`
+1. `ig.Sound.FORMAT.*`
+1. `Entity.addAnim()`
+1. `ig.module`
 
 ### Commands
 
